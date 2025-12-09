@@ -1,0 +1,19 @@
+
+# DATA-SHS 2025: Web scraping crash course
+
+Welcome to the repository of the crash course (3h) in web scraping.
+
+You can find the slides [here](2024_EconomIA_webscraping.pdf).
+
+The webpage I/we created during the class is in the [my-webpage](my-webpage/) folder (web page [here](https://lrberge.github.io/2024_webscraping/website/index.html)). 
+To publish online the websites we all created, have a look at [Netlify](https://www.netlify.com/): you can publish a website by drag-and-dropping your folder in about 5s! (That's pretty impressive tbh.)
+
+To play with selectors: see my website [](https://lrberge.github.io/learn_selectors/).
+
+Finally the small exercise with the Members of the European Parliament is in the file [scraping-inclass.py](scraping-inclass.py).
+
+I hope you enjoyed the class. Have fun now!
+
+
+
+
