@@ -3,12 +3,7 @@ project:
   output-dir: "docs"
 
 website:
-  title: "web-scraping-crash-course"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "webscraping-2025"
 
 format:
   html:

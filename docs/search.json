@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "DATA-SHS 2025: Web scraping crash course",
     "section": "",
-    "text": "Welcome to the repository of the crash course (3h) in web scraping.\nWelcome to the repository of the crash course (3h) in web scraping.\nYou can find the slides here.\nThe webpage I/we created during the class is in the my-webpage folder (web page here).\nTo publish online the websites we all created, have a look at Netlify: you can publish a website by drag-and-dropping your folder in about 5s! (That’s pretty impressive tbh.)\nTo play with selectors: see my website.\nFinally the small exercise with the Members of the European Parliament is in the file scraping-inclass.py.\nI hope you enjoyed the class. Have fun now!"
+    "text": "Welcome to the repository of the crash course (3h) in web scraping.\nSlides. You can find the slides here.\nFirst webpage. The webpage I/we created during the class is in the folder my-webpage.\nSelectors. To play with selectors: see the website with the game.\nExercises. The small exercises with the Members of the European Parliament is in the file scraping-inclass.py.\nI hope you enjoyed the class. Have fun now!"
   }
 ]
